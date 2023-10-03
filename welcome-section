@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Meta tags and title here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav id="navbar">
+        <!-- Navigation links here -->
+    </nav>
+
+    <section id="welcome-section" class="bg-image">
+        <div class="welcome-content">
+            <h1>Hello, I'm Olajobi Haneef</h1>
+            <p>Welcome to my portfolio website. I'm passionate about web development and creating meaningful user experiences.</p>
+            <a href="#projects" class="cta-button">View My Projects</a>
+        </div>
+    </section>
+
+    <!-- Rest of your content -->
+
+    <script src="script.js"></script>
+</body>
+
+</html>
