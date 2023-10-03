@@ -13,7 +13,7 @@
         <a class="nav-link" href="#welcome-section">Welcome</a>
         <a class="nav-link" href="#projects">Projects</a>
         <a class="nav-link" href="#contact">Contact</a>
-        <a id="profile-link" href="https://github.com/yourgithubusername" target="_blank">GitHub Profile</a>
+        <a id="profile-link" href="https://github.com/haneeo3" target="_blank">GitHub Profile</a>
     </nav>
 
     <section id="welcome-section">
@@ -31,8 +31,8 @@
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>Phone: +1 (123) 456-7890</p>
+        <p>Email: ho3olajobi@gmail.com</p>
+        <p>Phone: +2348079966884</p>
     </section>
 
     <script src="script.js"></script>
