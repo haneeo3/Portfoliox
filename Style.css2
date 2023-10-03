@@ -33,7 +33,7 @@
 
 /* Add styles for the background image */
 .bg-image {
-    background-image: url('IMG-20231003-WA0001.jpg');
+    background-image: url("pexels-fatemah-khaled-3936216.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
