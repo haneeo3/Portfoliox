@@ -4,10 +4,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background: url('IMG-20231003-WA0001.jpg') no-repeat center center/cover;
+    background-attachment: fixed;
 }
 
 #navbar {
-    background-color: #333;
+    background-color: rgba(0, 0, 0, 0.7);
     color: white;
     padding: 10px;
     position: fixed;
@@ -15,6 +17,7 @@ body {
     top: 0;
     display: flex;
     justify-content: space-around;
+    z-index: 1;
 }
 
 .nav-link {
@@ -32,13 +35,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f5f5f5;
     text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
 }
 
 #projects {
     padding: 50px;
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.9); /* Background color with opacity */
 }
 
 .project-tile {
@@ -47,6 +50,6 @@ body {
 
 #contact {
     padding: 50px;
-    background-color: #f5f5f5;
     text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
 }
