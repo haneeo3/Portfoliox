@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* ... Other styles ... */
+
+#welcome-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.welcome-content {
+    max-width: 600px;
+    color: white;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #45a049;
+}
+
+/* Add styles for the background image */
+.bg-image {
+    background-image: url('IMG-20231003-WA0001.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
