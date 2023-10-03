@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url('IMG-20231003-WA0001.jpg') no-repeat center center/cover;
+    background: url("IMG-20231003-WA0001.jpg") no-repeat center center/cover;
     background-attachment: fixed;
 }
 
